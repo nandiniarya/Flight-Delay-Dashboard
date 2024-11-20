@@ -91,57 +91,5 @@ The project includes an interactive dashboard that provides:
 5. **Seasonal & Time-based Trends**: Understanding how delays change over the course of the year and across different times of day.
 6. **Market Dynamics**: Provides insights into the competitive positioning of airlines based on performance and network size.
 
-## How to Use
 
-1. Clone or download this repository.
-2. Ensure you have the required dependencies installed (listed below).
-3. Load the dataset (`flights_data.csv` or any updated version).
-4. Run the Jupyter Notebook or Streamlit app to start analyzing the data and explore the interactive dashboard.
-
-## Installation
-
-1. Clone this repository:
-
-    ```bash
-    git clone https://github.com/your-username/flight-delay-cancellation-analysis.git
-    ```
-
-2. Install the required Python libraries:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Launch the dashboard with Streamlit:
-
-    ```bash
-    streamlit run app.py
-    ```
-
-## Dependencies
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- Streamlit
-- Scikit-learn
-
-## Contributing
-
-Contributions to this project are welcome! Please fork the repository and submit a pull request with any improvements or bug fixes. When contributing, make sure to:
-
-- Follow the coding style used in the project.
-- Add unit tests for new features or bug fixes.
-- Update the documentation as needed.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- U.S. Department of Transportation, Bureau of Transportation Statistics
-- The dataset used in this analysis was made publicly available by the Department of Transportation.
 
