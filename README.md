@@ -11,6 +11,9 @@ The dataset contains flight-level data on delays, cancellations, and various ope
 
 The dataset contains 29 million records, with a subset of 3 million rows available for analysis. Each record represents a single flight and includes the following key variables:
 
+![image](https://github.com/user-attachments/assets/6366c70d-08c1-4fcd-a6a4-376bfee217ec)
+
+
 ### Key Variables
 
 #### 1. Flight Information:
@@ -63,6 +66,11 @@ This dataset is intended for structured data analysis with applications includin
 - How does arrival delay change with the distance of a flight?
 - Which airlines have the highest number of flight cancellations, and how does this compare across the industry?
 - How does the cumulative departure delay change over time? Are there identifiable trends?
+
+- ![image](https://github.com/user-attachments/assets/f1beea93-42e8-447e-bb34-7fa85eb94c8e)
+
+![image](https://github.com/user-attachments/assets/0a280597-d896-466a-a167-f6d214e6a1d2)
+
 
 ## Dashboard
 
@@ -160,4 +168,25 @@ The project includes an interactive dashboard that provides:
 
 25. **Policy and Infrastructure Advocacy**:
    - NAS-related delays and weather-related disruptions emphasize the importance of advocating for better aviation infrastructure, air traffic control systems, and weather mitigation technologies at a policy level to enhance overall industry performance.
+
+![image](https://github.com/user-attachments/assets/825ea694-e66f-492f-b400-c5fba4eaf702)
+![image](https://github.com/user-attachments/assets/b6b2037e-9044-4a16-9bd9-9563588c42a1)
+
+
+## Conclusion
+
+The **Flight Delay and Cancellation Dashboard** provides a comprehensive analysis of key factors contributing to flight disruptions, offering valuable insights for airlines, passengers, and policymakers. By identifying patterns in delays and cancellations, the dashboard helps airlines pinpoint areas for operational improvement, optimize resource allocation, and enhance customer satisfaction.
+
+### Key Findings:
+* **Operational Efficiency**: Addressing internal inefficiencies like carrier-related issues (Cancellation Code A).
+* **Weather Mitigation**: Investing in forecasting tools to minimize weather disruptions.
+* **Infrastructure Improvements**: Enhancing air traffic control and airport facilities to reduce NAS-related delays.
+* **Customer-Centric Strategies**: Focusing on improving flight reliability to boost passenger satisfaction.
+
+### Strategic Benefits:
+* **Data-Driven Decision Making**: Enables airlines to align strategies with emerging trends, industry-wide challenges, and market dynamics.
+* **Competitive Benchmarking**: Allows airlines to compare their performance and improve operational benchmarks.
+* **Long-Term Strategic Planning**: Supports resource optimization, route planning, and operational resilience.
+
+In conclusion, this dashboard is a **powerful tool** for the aviation industry, providing a data-driven approach to improving **operational efficiency**, enhancing **customer experience**, and contributing to long-term strategic planning in the face of evolving challenges.
 
