@@ -11,7 +11,8 @@ The dataset contains flight-level data on delays, cancellations, and various ope
 
 The dataset contains 29 million records, with a subset of 3 million rows available for analysis. Each record represents a single flight and includes the following key variables:
 
-![image](https://github.com/user-attachments/assets/6366c70d-08c1-4fcd-a6a4-376bfee217ec)
+![Airline Delay Dashboard (5)](https://github.com/user-attachments/assets/ae5e08ff-2f03-4257-81f9-71c0b691edb6)
+
 
 
 ### Key Variables
